@@ -1,0 +1,8 @@
+# Libs
+*.a
+
+# Obj
+*.o
+
+# Executables
+test
